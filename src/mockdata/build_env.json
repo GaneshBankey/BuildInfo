@@ -1,0 +1,10 @@
+[
+  {
+    "name" : "DEV1",
+    "envURl" :"A"
+  },
+  {
+    "name": "DEV2",
+    "envURL" : "B"
+  }
+]

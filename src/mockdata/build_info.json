@@ -1,0 +1,9 @@
+{
+  "build": {
+    "artifact": "spring-boot-sample",
+    "group": "test.spring",
+    "name": "sample-build",
+    "time": 1482139076000,
+    "version": "0.0.1"
+  }
+}
